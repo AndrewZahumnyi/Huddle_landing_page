@@ -105,6 +105,10 @@ html, body {
   margin-bottom: 65px;
 }
 
+li {
+  display: inline;
+}
+
 
 .main_container {
   /*margin: 20px;*/
